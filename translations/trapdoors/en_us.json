@@ -2,11 +2,11 @@
 	"itemGroup.mcwtrpdoors": "Macaw's Trapdoors",
    
  	"item.mcwtrpdoors.print_classic":"Classic Trapdoor Print",
-    "item.mcwtrpdoors.print_cottage":"Cottage Trapdoor Print",
-    "item.mcwtrpdoors.print_paper":"Paper Trapdoor Print",
-    "item.mcwtrpdoors.print_beach":"Beach Trapdoor Print",
-    "item.mcwtrpdoors.print_tropical":"Tropical Trapdoor Print",
-    "item.mcwtrpdoors.print_four_panel":"Four Panel Trapdoor Print",
+   	"item.mcwtrpdoors.print_cottage":"Cottage Trapdoor Print",
+    	"item.mcwtrpdoors.print_paper":"Paper Trapdoor Print",
+    	"item.mcwtrpdoors.print_beach":"Beach Trapdoor Print",
+    	"item.mcwtrpdoors.print_tropical":"Tropical Trapdoor Print",
+    	"item.mcwtrpdoors.print_four_panel":"Four Panel Trapdoor Print",
 	"item.mcwtrpdoors.print_barred":"Barred Trapdoor Print",
 	"item.mcwtrpdoors.print_mystic":"Mystic Trapdoor Print",
 
